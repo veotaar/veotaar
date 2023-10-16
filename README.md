@@ -1,5 +1,3 @@
-### Hi there 👋
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=veotaar&theme=github-dark-blue)](https://git.io/streak-stats)
 
 <!--
