@@ -1,4 +1,4 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=veotaar&theme=dark&hide_border=true&card_width=220&hide_total_contributions=true&hide_longest_streak=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=veotaar&theme=highcontrast&hide_border=true&card_width=220&hide_total_contributions=true&hide_longest_streak=true)](https://git.io/streak-stats)
 
 <!--
 **veotaar/veotaar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
