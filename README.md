@@ -1,4 +1,22 @@
-[My Website](https://ulus.uk)
+👋 Hi, I’m Yalçıncan
+
+🧑‍💻 I'm a full-stack developer from Türkiye
+
+🌐 Check out [my personal website](https://ulus.uk)
+
+
+## Languages, Tech and Tools I use:
+
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=typescript,javascript,html,css)
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nodejs,bun,expressjs,hono,elysia,websocket,socketio)
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=react,tailwindcss,reactquery,vite)
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=postgres,redis,mongodb,sqlite,s3,drizzle)
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=docker,turborepo,git,github,linux,wsl,githubactions)
 
 <!--
 **veotaar/veotaar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
